@@ -2,11 +2,7 @@
 ex3
 # Student Project Approval & Allocation System
 
-## 1. Project Overview
 
-The Student Project Approval & Allocation System is a BPMN-based workflow designed to manage the final-year student project approval process. It covers proposal submission, validation, coordinator screening, committee evaluation, faculty guide allocation, and student notification.
-
-The workflow is designed using **Camunda Modeler** and follows BPMN 2.0 notation.
 
 ## 2. Objectives
 
@@ -95,7 +91,3 @@ The Student Project Approval & Allocation System demonstrates how BPMN can repre
 
 By using appropriate tasks, gateways, timers, and boundary events, the model improves workflow clarity and provides a foundation for future automation using Camunda.
 
-## 10. Project File
-
-* `Student_Project_Approval.bpmn` – BPMN workflow diagram.
-* `README.md` – Project description, workflow explanation, BPMN elements, and failure-path register.
